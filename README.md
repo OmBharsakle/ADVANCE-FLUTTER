@@ -74,5 +74,27 @@
               ),
 ```
 
+<h1></h1>
 
+<h3 align="center">Stepper Widget</h3>
+
+<h1></h1>
+
+<div align="center">
+
+<h3 align="center">Horizontal</h3>
+<img src="https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/9cbb3358-67bb-4ea1-86e3-5e4ea3fb2fff" height="500">
+<img src="https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/c035c4e0-882d-40fe-8858-604841f64f7c" height="500">
+<img src="https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/d6086f80-0e11-4a0b-a049-68adc01f87dc" height="500">
+<img src="https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/98de94dc-de51-478a-ab31-008b159d7da1" height="500">
+<h3 align="center">Vertical</h3>
+<img src="https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/d8450b91-dc86-4887-b805-d71c2069a57f" height="500">
+<img src="https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/fda0302e-3298-4f80-ab38-c4457bd5607b" height="500">
+<img src="https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/e2dc593e-9fa6-4e89-a0f8-feeff8560de6" height="500">
+
+</div>
+
+
+
+https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/21b1fa05-45bc-486b-a7ac-8d7873fea383
 
