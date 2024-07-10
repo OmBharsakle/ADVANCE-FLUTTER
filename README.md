@@ -98,3 +98,36 @@
 
 https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/21b1fa05-45bc-486b-a7ac-8d7873fea383
 
+<h1></h1>
+<h3 align="center">Provider Tree</h3>
+<h1></h1>
+
+<div align="center">
+  <img src="https://github.com/Prafulpatnecha/adv_flutter_ch1/assets/144161200/034c2da5-0b07-4ac0-a50a-aecf5fc23680" height=450px hspace=20>
+</div>
+
+## What Is State Management?
+
+In this section, we are going to discuss state management and how we can handle it in the Flutter. We know that in Flutter, everything is a widget. The widget can be classified into two categories, one is a Stateless widget, and another is a Stateful widget. The Stateless widget does not have any internal state. It means once it is built, we cannot change or modify it until they are initialized again. On the other hand, a Stateful widget is dynamic and has a state. It means we can modify it easily throughout its lifecycle without reinitialized it again.
+
+## What is State?
+
+A state is information that can be read when the widget is built and might change or modified over a lifetime of the app. If you want to change your widget, you need to update the state object, which can be done by using the setState() function available for Stateful widgets. The setState() function allows us to set the properties of the state object that triggers a redraw of the UI.
+
+<h1></h1>
+
+<h3 align="center">Provider & Change Theme using Provider</h3>
+
+<h1></h1>
+
+<div align="center">
+
+<img src="https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/c667ef29-20a7-4a22-8ade-8f0cd3d34b24" height="500">
+<img src="https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/cbcb4f7a-f5e0-4c32-9273-094b60270474" height="500">
+
+</div>
+
+
+https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/3a166a26-5dd6-4b52-9d68-2e83e4383837
+
+
