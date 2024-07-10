@@ -57,6 +57,7 @@ class Homepage extends StatelessWidget {
                 leading: Icon(
                   (userProfileProviderTrue.isDark)
                       ? Icons.sunny
+
                       : Icons.dark_mode,
                   color: Theme.of(context).colorScheme.primary,
                 ),
