@@ -113,3 +113,21 @@ In this section, we are going to discuss state management and how we can handle 
 ## What is State?
 
 A state is information that can be read when the widget is built and might change or modified over a lifetime of the app. If you want to change your widget, you need to update the state object, which can be done by using the setState() function available for Stateful widgets. The setState() function allows us to set the properties of the state object that triggers a redraw of the UI.
+
+<h1></h1>
+
+<h3 align="center">Provider & Change Theme using Provider</h3>
+
+<h1></h1>
+
+<div align="center">
+
+<img src="https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/c667ef29-20a7-4a22-8ade-8f0cd3d34b24" height="500">
+<img src="https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/cbcb4f7a-f5e0-4c32-9273-094b60270474" height="500">
+
+</div>
+
+
+https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/3a166a26-5dd6-4b52-9d68-2e83e4383837
+
+
