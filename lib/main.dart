@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'Screens/1.4/provider/home_page_provider.dart';
-import 'Screens/1.4/view/Homepage/homepage.dart';
+import 'Screens/1.5/provider/quotesProvider.dart';
+import 'Screens/1.5/view/quotesHomePage.dart';
 
 
 void main() {
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ChangeNotifierProvider(
-      create: (BuildContext context) => HomePageProvider(),
+      create: (BuildContext context) => QuotesProvider(),
       builder: (context, child) => MaterialApp(
         theme: ThemeData(
           brightness: Brightness.light,
@@ -34,11 +35,12 @@ class MyApp extends StatelessWidget {
             onSecondary: Colors.green,
           ),
         ),
-        themeMode: Provider.of<HomePageProvider>(context).isDark
-            ? ThemeMode.dark
-            : ThemeMode.light,
+        themeMode: ThemeMode.light,
+        // themeMode: Provider.of<HomePageProvider>(context).isDark
+        //     ? ThemeMode.dark
+        //     : ThemeMode.light,
         debugShowCheckedModeBanner: false,
-        home: const Homepage(),
+        home: const QuotesHomepage(),
       ),
     );
   }
