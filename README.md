@@ -130,4 +130,24 @@ A state is information that can be read when the widget is built and might chang
 
 https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/3a166a26-5dd6-4b52-9d68-2e83e4383837
 
+<h1></h1>
+
+<h3 align="center">Quotes Data Solving with Provider</h3>
+
+<h1></h1>
+
+<div align="center">
+
+
+<img src="https://github.com/user-attachments/assets/a960d48c-167d-42b4-a118-3a2c33da32c9" height="500">
+<img src="https://github.com/user-attachments/assets/64075842-32ef-4042-8de7-804e5418d8c3" height="500">
+
+</div>
+
+
+https://github.com/user-attachments/assets/1ccb41d3-59a7-4934-a360-5f3d39db762c
+
+
+
+
 
