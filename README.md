@@ -130,6 +130,7 @@ A state is information that can be read when the widget is built and might chang
 
 https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/3a166a26-5dd6-4b52-9d68-2e83e4383837
 
+
 <h1></h1>
 
 <h3 align="center">Quotes Data Solving with Provider</h3>
@@ -144,9 +145,21 @@ https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/3a166a26-5dd6-4b
 
 </div>
 
-
 https://github.com/user-attachments/assets/1ccb41d3-59a7-4934-a360-5f3d39db762c
 
+<h1></h1>
+
+<h3 align="center">1.5 One Time Intro Screen in Flutter </h3>
+
+<h1></h1>
+
+<div align="center">
+ 
+<img src="https://github.com/user-attachments/assets/f408c389-b2d7-4e71-a757-b456a5228fba" height="500">
+<img src="https://github.com/user-attachments/assets/6f11265f-f00b-462c-a3c1-413085153b83" height="500">
+<img src="https://github.com/user-attachments/assets/2b7542d2-520d-4345-9b70-9d5b193f6688" height="500">
+
+</div>
 
 
 
