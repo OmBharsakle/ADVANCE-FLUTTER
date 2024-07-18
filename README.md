@@ -178,6 +178,26 @@ https://github.com/user-attachments/assets/1ccb41d3-59a7-4934-a360-5f3d39db762c
 https://github.com/user-attachments/assets/2c3d3fce-4c44-4ac4-a05b-c537ce539a55
 
 
+<h1></h1>
+
+<h3 align="center">Gallery With Biometric Authentication
+
+ </h3>
+
+
+<h1></h1>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a6e4a33d-865e-4217-b4f6-31cdb5482f0d" height="500">
+ <img src="https://github.com/user-attachments/assets/698f143d-5f54-4862-87e5-b9f7f25633f2" height="500">
+</div>
+
+
+
+
+https://github.com/user-attachments/assets/7d45bf57-097b-4c80-bec3-a592e28def2d
+
+
 
 
 
