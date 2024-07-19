@@ -131,3 +131,92 @@ A state is information that can be read when the widget is built and might chang
 https://github.com/OmBharsakle/ADVANCE-FLUTTER/assets/149371245/3a166a26-5dd6-4b52-9d68-2e83e4383837
 
 
+<h1></h1>
+
+<h3 align="center">Quotes Data Solving with Provider</h3>
+
+<h1></h1>
+
+<div align="center">
+
+
+<img src="https://github.com/user-attachments/assets/a960d48c-167d-42b4-a118-3a2c33da32c9" height="500">
+<img src="https://github.com/user-attachments/assets/64075842-32ef-4042-8de7-804e5418d8c3" height="500">
+
+</div>
+
+https://github.com/user-attachments/assets/1ccb41d3-59a7-4934-a360-5f3d39db762c
+
+<h1></h1>
+
+<h3 align="center">1.5 One Time Intro Screen in Flutter </h3>
+
+<h1></h1>
+
+<div align="center">
+ 
+<img src="https://github.com/user-attachments/assets/f408c389-b2d7-4e71-a757-b456a5228fba" height="500">
+<img src="https://github.com/user-attachments/assets/6f11265f-f00b-462c-a3c1-413085153b83" height="500">
+<img src="https://github.com/user-attachments/assets/2b7542d2-520d-4345-9b70-9d5b193f6688" height="500">
+
+</div>
+
+
+<h1></h1>
+
+<h3 align="center">1.6 Contact Us Page With Interaction
+ </h3>
+
+<h1></h1>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/0bcaed85-ecad-4ac2-be5a-9cfc60aeb887" height="500">
+</div>
+
+
+
+https://github.com/user-attachments/assets/2c3d3fce-4c44-4ac4-a05b-c537ce539a55
+
+
+<h1></h1>
+
+<h3 align="center">Gallery With Biometric Authentication
+
+ </h3>
+
+
+<h1></h1>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a6e4a33d-865e-4217-b4f6-31cdb5482f0d" height="500">
+ <img src="https://github.com/user-attachments/assets/698f143d-5f54-4862-87e5-b9f7f25633f2" height="500">
+</div>
+
+
+
+
+https://github.com/user-attachments/assets/7d45bf57-097b-4c80-bec3-a592e28def2d
+
+
+
+
+<h1></h1>
+
+<h3 align="center">What is JSON & JSON Parsing ?
+
+ </h3>
+
+
+<h1></h1>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/aebc1f14-075d-432f-b188-f567384e268f" height="500">
+</div>
+
+
+https://github.com/user-attachments/assets/c19ea864-dbb3-4767-892c-b5d515585b08
+
+
+
+
+
