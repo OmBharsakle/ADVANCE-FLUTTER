@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import '../modelClass/modelClass.dart';
 import '../provider/quotesProvider.dart';
 
@@ -9,11 +8,10 @@ class QuotesHomepage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    QuotesProvider QuotesProviderTrue =
-    Provider.of<QuotesProvider>(context, listen: true);
-    QuotesProvider QuotesProviderFalse =
-    Provider.of<QuotesProvider>(context, listen: false);
-    QuotesProviderFalse.quotesAddingJsonFile(quotes);
+    Quotesprovider QuotesProviderTrue =
+    Provider.of<Quotesprovider>(context, listen: true);
+    Quotesprovider QuotesProviderFalse =
+    Provider.of<Quotesprovider>(context, listen: false);
     return Scaffold(
       appBar: AppBar(
         title: Text('Quotes'),
@@ -23,10 +21,10 @@ class QuotesHomepage extends StatelessWidget {
         child: ListTile(
           leading: Text(
               '${index + 1}',style: TextStyle(fontSize: 18),),
-          title: Text(QuotesProviderTrue.quotesAddingList[index]["quote"]),
-          subtitle: Text(QuotesProviderTrue.quotesAddingList[index]["author"]),
+          title: Text(QuotesModal.newQuotesList[index].quotes.toString()),
+          subtitle: Text(QuotesModal.newQuotesList[index].author.toString()),
           trailing: IconButton(onPressed: () {
-            QuotesProviderFalse.provideRemove(index);
+            // QuotesProviderFalse.provideRemove(index);
           },icon: Icon(Icons.delete),),
         ),
       ),),
@@ -101,7 +99,7 @@ class QuotesHomepage extends StatelessWidget {
                     onTap: () {
                       if (formKey.currentState!.validate()) {
                         Navigator.pop(context);
-                        QuotesProviderFalse.addUserList(QuotesModal(quote: txtQuotes.text.toString(),author: txtAuthor.text.toString()));
+                        // QuotesProviderFalse.addUserList(QuotesModal(quote: txtQuotes.text.toString(),author: txtAuthor.text.toString()));
                       }
                     },
                     child: const Text(

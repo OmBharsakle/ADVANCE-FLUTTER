@@ -36,6 +36,16 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
   provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  url_launcher: ^6.3.0
+  font_awesome_flutter: ^10.7.0
+  icons_plus: ^5.0.0
+  local_auth: ^2.2.0
+  google_fonts: ^6.2.1
+  photo_gallery: ^2.2.1
+  video_player: ^2.9.1
+  permission_handler: ^11.3.1
+  transparent_image: ^2.0.1
 
 dev_dependencies:
   flutter_test:
@@ -63,6 +73,25 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/gallery/
+    - assets/image/biryani/
+    - assets/image/cafe/
+    - assets/image/cake/
+    - assets/image/coffee/
+    - assets/image/custard/
+    - assets/image/fast_food/
+    - assets/image/ice/
+    - assets/image/jain_food/
+    - assets/image/paratha/
+    - assets/image/pasta/
+    - assets/image/pizza/
+    - assets/image/sabji/
+    - assets/image/summer/
+    - assets/image/sweet/
+    - assets/image/thali/
+    - assets/json/
+    - assets/json/photos.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

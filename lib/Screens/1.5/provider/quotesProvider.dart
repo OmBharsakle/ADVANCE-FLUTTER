@@ -1,25 +1,14 @@
-import 'package:flutter/material.dart';
+import 'package:advance_flutter/Screens/1.5/modelClass/modelClass.dart';
+import 'package:flutter/cupertino.dart';
 
-import '../modelClass/modelClass.dart';
-
-
-class QuotesProvider extends ChangeNotifier
-
+class Quotesprovider extends ChangeNotifier
 {
-  List quotesAddingList=[];
-  void addUserList(QuotesModal quotesModal)
+   List<QuotesModal> newQuotesList = [];
+
+  Quotesprovider()
   {
-    quotesAddingList.insert(0, {'quote':quotesModal.quote,'author':quotesModal.author});
-    notifyListeners();
+    QuotesModal.newQuotesList = quotes.map((e)=> QuotesModal.fromJson(e)).toList();
   }
-  void quotesAddingJsonFile(List jsonList)
-  {
-    quotesAddingList.addAll(jsonList);
-    notifyListeners();
-  }
-  void provideRemove(int index)
-  {
-    quotesAddingList.removeAt(index);
-    notifyListeners();
-  }
+
+
 }

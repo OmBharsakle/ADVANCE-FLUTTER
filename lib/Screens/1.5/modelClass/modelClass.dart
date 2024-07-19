@@ -2,18 +2,21 @@ import 'package:flutter/material.dart';
 
 class QuotesModal
 {
-  String? quote,author;
-  QuotesModal({this.author,this.quote});
+   String? quotes,author;
 
-  factory QuotesModal.fromQuotes(Map m1)
-  {
-    return QuotesModal(quote: m1['quote'],author: m1['author']);
-  }
+   static List<QuotesModal> newQuotesList = [];
+
+   QuotesModal({this.quotes,this.author});
+
+factory QuotesModal.fromJson(Map quote)
+{
+  return QuotesModal(quotes: quote['quote'],author: quote['author']);
+}
+
 
 }
 
 List quotes=[
-
 {
 "quote":"Life isn’t about getting and having, it’s about giving and being.","author":"Kevin Kruse"},
 {
